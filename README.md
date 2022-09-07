@@ -11,3 +11,5 @@
 *   [[Easy] Java Loops II (10 pts)](https://www.hackerrank.com/challenges/java-loops/)
 *   [[Easy] Java End-of-file (10 pts)](https://www.hackerrank.com/challenges/java-end-of-file/)
 
+
+*   [[Easy] Welcome To Java! (3 pts)](https://github.com/vivekkhillar/Hackerrank-Java-Tutorial/blob/6480a7ad166bf385267d02884bce8d53d79456ae/Introduction/Welcome%20To%20Java/welcometojava.java) 
