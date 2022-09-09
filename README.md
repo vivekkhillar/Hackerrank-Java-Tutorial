@@ -9,4 +9,4 @@
 *   [[Easy] Java Output Formatting (10 pts)](https://github.com/vivekkhillar/Hackerrank-Java-Tutorial/blob/e406655b4d0b30efe1c047484e47b91ae763a6c2/Introduction/Java%20Out%20Put%20format/javaoutputformat.java)
 *   [[Easy] Java Loops I (10 pts)](https://github.com/vivekkhillar/Hackerrank-Java-Tutorial/blob/1a25f380deb25a2ef4616e5084075ea9857ad532/Introduction/Java%20Loops%20I/javaloopsI.java)
 *   [[Easy] Java Loops II (10 pts)](https://github.com/vivekkhillar/Hackerrank-Java-Tutorial/blob/0978d0e46fc95dc4dc4c9fa49e12095d156df879/Introduction/Java%20Loops%20II/javaloopsII.java)
-*   [[Easy] Java End-of-file (10 pts)](https://www.hackerrank.com/challenges/java-end-of-file/)
+*   [[Easy] Java End-of-file (10 pts)](https://github.com/vivekkhillar/Hackerrank-Java-Tutorial/blob/db41a5f1a072f2621fdba54a505957d4235eb3ea/Introduction/Java%20End%20Of%20FIle/javaendoffile.java)
