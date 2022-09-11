@@ -2,22 +2,6 @@
 
 #### Introduction
 
-<table>
-  <tr>
-    <th> Difficulty Level</th>
-    <th> Problem Name </th>
-    <th> Points </th>
-  </tr>
-  
-  <tr>
-    <td>Easy</td>
-    <td>*[Welcome To Java!](https://github.com/vivekkhillar/Hackerrank-Java-Tutorial/blob/6480a7ad166bf385267d02884bce8d53d79456ae/Introduction/Welcome%20To%20Java/welcometojava.java)</td>
-    <td> 3 pts </td>
-  
-</table>
-
-
-
 *   [[Easy] Welcome To Java! (3 pts)](https://github.com/vivekkhillar/Hackerrank-Java-Tutorial/blob/6480a7ad166bf385267d02884bce8d53d79456ae/Introduction/Welcome%20To%20Java/welcometojava.java) 
 *   [[Easy] Java Stdin and Stdout 1 (5 pts)](https://github.com/vivekkhillar/Hackerrank-Java-Tutorial/blob/f2f52c816db364f92ad122546d1c55a1c150456f/Introduction/Java%20Stdin%20and%20Stdout/javastdinandstdout.java)
 *   [[Easy] Java If-Else (10 pts)](https://github.com/vivekkhillar/Hackerrank-Java-Tutorial/blob/b41da071812e31ba116bf1eb6e3af35c07d6d79d/Introduction/Java%20If%20Else/javaifelse.java)
