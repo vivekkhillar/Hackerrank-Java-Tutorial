@@ -14,3 +14,4 @@
 *   [[Easy] Java Static Initializer Block (10 pts)](https://github.com/vivekkhillar/Hackerrank-Java-Tutorial/blob/fadd931f3cde311810a410f76fced81087f491cc/Introduction/Java%20Static%20Initializer%20Block/javastaticinitializerblock.java)
 *   [[Easy] Java Int to String (10 pts)](https://github.com/vivekkhillar/Hackerrank-Java-Tutorial/blob/8ea9896146fe89849b19c9d6584956c82c153ad7/Introduction/Java%20Int%20to%20String/javainttostring.java)
 *   [[Easy] Java Date and Time (15 pts)](https://github.com/vivekkhillar/Hackerrank-Java-Tutorial/blob/46ea486e2cd4c25745d11ae02e5c32c6ebdbdd2a/Introduction/Java%20Date%20and%20Time/javadateandtime.java)
+*   [[Easy] Java Currency Formatter (15 pts)](https://github.com/vivekkhillar/Hackerrank-Java-Tutorial/blob/e8e1fbb0dac256620daf04636e0ce9cf2c1406ae/Introduction/Java%20Currency%20Formatter/javacurrencyformatter.java)
