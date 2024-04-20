@@ -21,4 +21,5 @@
 
 *   [[Easy] Java Strings Introduction (5 pts)](https://github.com/vivekkhillar/Hackerrank-Java-Tutorial/blob/88acfba2cdcd134e77d2c072f4af52ac3b486658/Strings/Java%20String%20introduction/javastringintroduction.java)
 *   [[Easy] Java Substring (5 pts)](https://github.com/vivekkhillar/Hackerrank-Java-Tutorial/blob/2714688ac85af9f5836c2d6e536691060c34b1d9/Strings/Java%20Substring/javasubstrings.java) 
+*   [[Easy] Java String Reverse (10 pts)](https://github.com/vivekkhillar/Hackerrank-Java-Tutorial/tree/c6e605cfc3a8041ac9355dc6bdf0130ff058d37a/Strings/Java%20String%20Reverse/javastringreverse.java)
 
